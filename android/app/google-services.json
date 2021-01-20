@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81468590267",
+    "firebase_url": "https://testeappnotificacaopush.firebaseio.com",
+    "project_id": "testeappnotificacaopush",
+    "storage_bucket": "testeappnotificacaopush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81468590267:android:a491c041cf83063082419e",
+        "android_client_info": {
+          "package_name": "br.com.AppTeste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81468590267-6ern404i532s2htcqjv47ikd19mb530m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RrRGvv76gEct-y3rvZJWJ5TTewIQJLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81468590267-6ern404i532s2htcqjv47ikd19mb530m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
